@@ -1,4 +1,4 @@
 Get the user  expense data...
 Process the data
 
-create different expenses for the users
+create different expenses for the users and make it visible.
